@@ -1,8 +1,0 @@
-{
-  "IsEncrypted": false,
-  "Values": {
-    "AzureWebJobsStorage": "",
-    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "OracleDbConn": "User Id=IHUB_SERVICES;Password=IHUB_SERVICES;Data Source=YOUR_DSN"
-  }
-}
