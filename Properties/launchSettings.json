@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "C_AzureOracle": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7132",
-      "launchBrowser": false
-    }
-  }
-}
